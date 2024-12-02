@@ -10,5 +10,5 @@ Malzahn Cruz Emir Jafet.
 
 ![descripción de la imágen](https://elcodigoperfecto.blog/wp-content/uploads/2023/04/imagen-1.png)
 
-![image](https://github.com/user-attachments/assets/e68364e0-e7d1-4718-a7a7-73b09709ea34)
+<h1 aligh="center">![image](https://github.com/user-attachments/assets/e68364e0-e7d1-4718-a7a7-73b09709ea34) </h1>
 
