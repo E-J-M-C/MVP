@@ -12,5 +12,5 @@ class Materia:
         self.__parcial1 = parcial1
         self.__parcial2 = parcial2
         self.__parcial3 = parcial3
-        self.__calificacionFinal = (self.__parcial1 * 0.2 + self.__parcial2 * 0.3 + self.__parcial3 * 0.5)
+        self.__calificacionFinal = self.__parcial1 * 0.2 + self.__parcial2 * 0.3 + self.__parcial3 * 0.5
         return self.__calificacionFinal
