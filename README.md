@@ -6,6 +6,7 @@ Códigos creados para la clase de fundamentos de programación del semestre agos
 
 ### Estudiante: / Grupo:
 Malzahn Cruz Emir Jafet / 1A6
+[<](https://youtu.be/XeVxc8Y-DgY?si=ATQdnEqfaELmH9Wi)
 <h1 align="center"> Nueva clase: MATERIA </h1>
 
 ![descripción de la imágen](https://elcodigoperfecto.blog/wp-content/uploads/2023/04/imagen-1.png)
