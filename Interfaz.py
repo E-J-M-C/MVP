@@ -49,7 +49,7 @@ def calcularCalificacionFinal():
 #Se crea la ventana o interfaz y dentro sus componentes o lo que se observara
 ventana = tk.Tk()
 ventana.title("Materia")
-ventana.config(width=500, height=300)
+ventana.config(width=550, height=300)
 
 #Se crean las etiquetas de datos
 etiqueta_parcial1 = ttk.Label(text="Ingresa calificación del primer parcial (20%): ")
