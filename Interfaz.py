@@ -60,8 +60,6 @@ etiqueta_parcial3 = ttk.Label(text="Ingresa calificación del tercer parcial (50
 etiqueta_parcial3.place(x=10, y=100)
 etiqueta_calificacionFinal = ttk.Label(text="")
 etiqueta_calificacionFinal.place(x=10, y=180)
-etiqueta_felicidades = ttk.Label(text="")
-etiqueta_felicidades.place(x=20, y=200)
 
 #Se asignan casillas para la colocacion de los datos
 input_parcial1 = ttk.Entry()
