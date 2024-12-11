@@ -4,7 +4,7 @@ from tkinter import ttk
 from Materias import Materia
 
 #Se define el metodo de la interfaz, del cual se desglozan las acciones
-def calcularCalificacionFinalFormaUno():
+def calcularCalificacionFinal():
     parcial1 = 0.0
     parcial2 = 0.0
     parcial3 = 0.0
@@ -78,7 +78,7 @@ etiqueta_error_parcial3 = ttk.Label(text="")
 etiqueta_error_parcial3.place(x=310, y=100)
 
 #Se crea el boton para la ejecucion del comando 
-boton_calcular = ttk.Button(text="Calcular", command=calcularCalificacionFinalFormaUno)
+boton_calcular = ttk.Button(text="Calcular", command=calcularCalificacionFinal)
 boton_calcular.place(x=100, y=140)
 
 #Se cierra la ventana o interfaz
